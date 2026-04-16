@@ -12,6 +12,8 @@ I am a passionate Third Year IT student focused on building practical and scalab
 ![](https://streak-stats.demolab.com/?user=vedant-wadekar&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vedant-wadekar&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![snake gif](https://github.com/vedant-wadekar/vedant-wadekar/blob/output/github-snake-dark.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vedant-wadekar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
